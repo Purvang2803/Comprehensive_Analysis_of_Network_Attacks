@@ -5,6 +5,14 @@ This repository contains a Jupyter notebook performing a detailed analysis and c
 
 ---
 
+## 🔗 Dataset Used
+
+This project utilizes the [UNSW-NB15 dataset](https://research.unsw.edu.au/projects/unsw-nb15-dataset), created by the Australian Centre for Cyber Security (ACCS) at UNSW Canberra.
+
+The dataset contains modern normal activities and synthetic contemporary attack behaviors, designed for training and evaluating intrusion detection systems.
+
+---
+
 ## 📁 Contents
 
 * `Comprehensive_Analysis_of_Network_Attacks_Dataset.ipynb`: The complete notebook with data preprocessing, visualization, and classification.
